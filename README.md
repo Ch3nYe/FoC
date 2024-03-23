@@ -6,7 +6,7 @@
 
 ## Evaluation
 
-We here provide the evaluation script and test data for FoC-BinLLM in summarizing cryptographic binary functions. 
+We here provide the evaluation script and the *x86_64* test data for FoC-BinLLM in summarizing cryptographic binary functions. 
 
 Please downlaod our model from: google-drive  [link](https://drive.google.com/file/d/1sL0R-xbIYwRfTBPyF5b0WAzs3nqbNp8O/view?usp=sharing)
 
