@@ -1,4 +1,4 @@
-# FoC
+# FoC: Figure out the Cryptographic Functions in Stripped Binaries with LLMs
 
 ## Environment Setup
 
