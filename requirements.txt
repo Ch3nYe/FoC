@@ -81,7 +81,6 @@ Pygments==2.17.2
 pynvml==11.5.0
 pyparsing==3.1.1
 python-dateutil==2.8.2
-python-lzo==1.14
 pytz==2024.1
 regex==2023.12.25
 responses==0.18.0
@@ -106,7 +105,6 @@ threadpoolctl==3.2.0
 tokenizers==0.15.2
 torch==2.2.0
 torchaudio==2.2.0
-torchvision==0.14.1
 tqdm==4.66.2
 traitlets==5.14.1
 transformers==4.37.2
