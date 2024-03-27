@@ -21,4 +21,14 @@ The rouge score will be printed into the command, and if you want to calc other 
 
 ## Cryptographic Dataset
 
-Big volume, coming soon...
+Download our pre-processed dataset from google-drive: [link](https://drive.google.com/file/d/1GkxjL8NZb4heCjmJXx9e9qnBmKLMHJRP/view?usp=sharing)
+
+The binaries (big volume) will be released soon ...
+
+## Train FoC-BinLLM
+
+We provide the training script for FoC-BinLLM, you can use the following bash script to train the model:
+
+`./tune_all-multitask_codet5p-220m.sh`
+
+The dataset needed when training could be found in the above link (Cryptographic Dataset). 
