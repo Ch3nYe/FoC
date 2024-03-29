@@ -28,3 +28,7 @@ We provide the training script for FoC-BinLLM, you can use the following bash sc
 The pre-processed dataset needed when training could be found in google-drive: [link](https://drive.google.com/file/d/1GkxjL8NZb4heCjmJXx9e9qnBmKLMHJRP/view?usp=sharing)
 
 The binaries (big volume) will be released soon ...
+
+## FoC-Sim
+
+The second module of FoC could be found in the `FoC-Sim` directory. 
