@@ -1,4 +1,9 @@
-# FoC: Figure out the Cryptographic Functions in Stripped Binaries with LLMs
+<div align="center">
+<h1>FoC: Figure out the Cryptographic Functions in Stripped Binaries with LLMs</h1>
+<p>
+<a href="https://dl.acm.org/doi/10.1145/3731449">Paper Link: https://dl.acm.org/doi/10.1145/3731449</a>
+</p>
+</div>
 
 ## Environment Setup
 
@@ -34,3 +39,23 @@ The binaries (big volume) will be released soon ...
 ## FoC-Sim
 
 The second module of FoC could be found in the `FoC-Sim` directory. 
+
+## Citation
+
+If you feel our work insightful, please consider cite this:
+
+```
+@article{10.1145/3731449,
+author = {Shang, Xiuwei and Chen, Guoqiang and Cheng, Shaoyin and Guo, Shikai and Zhang, Yanming and Zhang, Weiming and Yu, Nenghai},
+title = {FoC: Figure out the Cryptographic Functions in Stripped Binaries with LLMs},
+year = {2025},
+publisher = {Association for Computing Machinery},
+address = {New York, NY, USA},
+issn = {1049-331X},
+url = {https://doi.org/10.1145/3731449},
+doi = {10.1145/3731449},
+journal = {ACM Trans. Softw. Eng. Methodol.},
+month = apr,
+keywords = {Binary Code Summarization, Cryptographic Algorithm Identification, Binary Code Similarity Detection, Large Language Models}
+}
+```
